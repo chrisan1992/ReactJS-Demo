@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\",
+  "WorkspaceRootPath": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\reactjs demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|c:\\users\\csanchez56\\onedrive - dxc production\\documents\\github\\reactjs-demo\\reactjs demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|solutionrelative:reactjs demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\reactjs demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\reactjs demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|solutionrelative:reactjs demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|c:\\users\\csanchez56\\onedrive - dxc production\\documents\\reactjs demo\\reactjs demo\\scripts\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\reactjs demo\\scripts\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|solutionrelative:reactjs demo\\scripts\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|c:\\users\\csanchez56\\onedrive - dxc production\\documents\\reactjs demo\\reactjs demo\\scripts\\components\\commentlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\reactjs demo\\scripts\\components\\commentlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|solutionrelative:reactjs demo\\scripts\\components\\commentlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\reactjs demo\\scripts\\components\\commentform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\reactjs demo\\scripts\\components\\commentform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|solutionrelative:reactjs demo\\scripts\\components\\commentform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\reactjs demo\\scripts\\components\\comment.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\reactjs demo\\scripts\\components\\comment.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{641CA7B8-1399-418A-9F56-9FE4C6316493}|ReactJS Demo\\ReactJS Demo.csproj|solutionrelative:reactjs demo\\scripts\\components\\comment.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
@@ -56,37 +56,35 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CommentList.jsx",
-              "DocumentMoniker": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\ReactJS Demo\\Scripts\\Components\\CommentList.jsx",
+              "DocumentMoniker": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\ReactJS Demo\\Scripts\\Components\\CommentList.jsx",
               "RelativeDocumentMoniker": "ReactJS Demo\\Scripts\\Components\\CommentList.jsx",
-              "ToolTip": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\ReactJS Demo\\Scripts\\Components\\CommentList.jsx",
+              "ToolTip": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\ReactJS Demo\\Scripts\\Components\\CommentList.jsx",
               "RelativeToolTip": "ReactJS Demo\\Scripts\\Components\\CommentList.jsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-05-09T18:20:54.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T18:20:54.219Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CommentForm.jsx",
-              "DocumentMoniker": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\ReactJS Demo\\Scripts\\Components\\CommentForm.jsx",
+              "DocumentMoniker": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\ReactJS Demo\\Scripts\\Components\\CommentForm.jsx",
               "RelativeDocumentMoniker": "ReactJS Demo\\Scripts\\Components\\CommentForm.jsx",
-              "ToolTip": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\ReactJS Demo\\Scripts\\Components\\CommentForm.jsx",
+              "ToolTip": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\ReactJS Demo\\Scripts\\Components\\CommentForm.jsx",
               "RelativeToolTip": "ReactJS Demo\\Scripts\\Components\\CommentForm.jsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-05-09T17:54:30.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T17:54:30.028Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\ReactJS Demo\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\ReactJS Demo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ReactJS Demo\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\ReactJS Demo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\ReactJS Demo\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ReactJS Demo\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T03:25:39.053Z",
               "EditorCaption": ""
@@ -95,40 +93,37 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Comment.jsx",
-              "DocumentMoniker": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\ReactJS Demo\\Scripts\\Components\\Comment.jsx",
+              "DocumentMoniker": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\ReactJS Demo\\Scripts\\Components\\Comment.jsx",
               "RelativeDocumentMoniker": "ReactJS Demo\\Scripts\\Components\\Comment.jsx",
-              "ToolTip": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\ReactJS Demo\\Scripts\\Components\\Comment.jsx",
+              "ToolTip": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\ReactJS Demo\\Scripts\\Components\\Comment.jsx",
               "RelativeToolTip": "ReactJS Demo\\Scripts\\Components\\Comment.jsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-05-09T15:14:05.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T15:14:05.705Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\ReactJS Demo\\Scripts\\App.jsx",
+              "DocumentMoniker": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\ReactJS Demo\\Scripts\\App.jsx",
               "RelativeDocumentMoniker": "ReactJS Demo\\Scripts\\App.jsx",
-              "ToolTip": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\ReactJS Demo\\Scripts\\App.jsx",
+              "ToolTip": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\ReactJS Demo\\Scripts\\App.jsx",
               "RelativeToolTip": "ReactJS Demo\\Scripts\\App.jsx",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwB0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-05-09T03:24:59.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T03:24:59.704Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\ReactJS Demo\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\ReactJS Demo\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ReactJS Demo\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\ReactJS Demo\\ReactJS Demo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\csanchez56\\OneDrive - DXC Production\\Documents\\GitHub\\ReactJS-Demo\\ReactJS Demo\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ReactJS Demo\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T03:24:06.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T03:24:06.576Z"
             }
           ]
         },
