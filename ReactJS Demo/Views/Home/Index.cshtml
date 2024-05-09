@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <div id="content"></div>
+    <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react/16.13.0/umd/react.development.js"></script>
+    <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.13.0/umd/react-dom.development.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/1.7.1/remarkable.min.js"></script>
+
+    <script src="@Url.Content("~/Scripts/Components/Comment.jsx")"></script>
+    <script src="@Url.Content("~/Scripts/Components/CommentForm.jsx")"></script>
+    <script src="@Url.Content("~/Scripts/Components/CommentList.jsx")"></script>
+    <script src="@Url.Content("~/Scripts/App.jsx")"></script>
+
+</main>
